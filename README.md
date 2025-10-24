@@ -1,6 +1,6 @@
 # Merhaba, ben Selen 👋
 
-Ben YBS 3. sınıf öğrencisiyim. Python ve SQL öğreniyor, veri bilimi ve yazılım alanında kendimi geliştiriyorum. Veri bilimi için kendimi geliştiricem ve yazdığım her küçük kod burada paylaşılcak.
+Ben YBS 3. sınıf öğrencisiyim. Python ile Veri Analizinde gelişiyor aynı zamanda SQL dili ile analizlerimi geliştiriyorum., veri bilimi ve yazılım alanında kendimi geliştiriyorum. Veri bilimi için kendimi geliştiricem ve yazdığım her küçük kod burada paylaşılcak.
 
 ## 🚀 Hakkımda
 
